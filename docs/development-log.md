@@ -9,3 +9,4 @@
 - Implement move validation
 - Add win condition checking
 - Create player turn management
+Development status: Initial setup complete.
