@@ -1,1 +1,1 @@
-Game mode: Two-player
+Updated from GitHub
